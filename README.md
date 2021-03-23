@@ -1,2 +1,2 @@
 # hello-world
-This is my github rearning tuto
+This is my github learning tuto
